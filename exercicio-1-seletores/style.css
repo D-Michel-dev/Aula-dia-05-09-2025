@@ -4,8 +4,8 @@ p {
 }
 p a {
     color: green;
+    text-decoration: underline;
 }
 a{
     color: red;
-    text-decoration: none;
 }
