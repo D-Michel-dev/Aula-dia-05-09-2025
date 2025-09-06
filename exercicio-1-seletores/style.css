@@ -20,5 +20,13 @@ p a {
     color: red;
 }
 .underline{
-    text-decoration: underline;
+    text-decoration: underline; 
+}
+#front{
+    color: rgb(255, 255, 255);
+    background: black;
+}
+#projeto{
+    color:rgb(0, 136, 255);
+    background: black;
 }
