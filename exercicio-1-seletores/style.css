@@ -23,10 +23,10 @@ p a {
     text-decoration: underline; 
 }
 #front{
-    color: rgb(255, 255, 255);
-    background: black;
+    color: #000000;
+    background: #8844ee;
 }
 #projeto{
-    color:rgb(0, 136, 255);
-    background: black;
+    color: #ffffff;
+    background: #8844ee;
 }
