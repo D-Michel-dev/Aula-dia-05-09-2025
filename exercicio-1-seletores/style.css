@@ -43,3 +43,9 @@ p a {
     color: rgb(76, 13, 213);
     background: rgba(5, 130, 255, 0.84);
 }
+.pai{
+    font-size: 16px;
+}
+.filho{
+    font-size: 1.2em;
+}
