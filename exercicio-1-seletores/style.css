@@ -30,3 +30,16 @@ p a {
     color: #ffffff;
     background: #8844ee;
 }
+#html{
+    color: rgba(255, 0, 0, 0.8);
+}
+#css{
+    color: rgba(0, 255, 0, 0.6);
+}
+#javascript{
+    color: rgba(255, 255, 0, 0.8);
+}
+#design{
+    color: rgb(76, 13, 213);
+    background: rgba(5, 130, 255, 0.84);
+}
